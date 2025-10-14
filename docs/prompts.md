@@ -1,1 +1,1 @@
-1. 為甚麼server_add.php的綠界與藍新銀行轉帳，他們吃ecpay_merchant_id_bank等等ecpay開頭的資料，但前端表單卻只有MerchantID_bank，幫我確認，請用zh-tw回覆，我目前看選擇了綠界，還是顯示normaldiv2這個ID的元素，幫我確認是否js有問題，幫我確認銀行的部分就好，超商應該都是正確的，請用zh-tw回覆
+1. 為甚麼server_add.php的綠界與藍新銀行轉帳，他們吃ecpay_merchant_id_bank等等ecpay開頭的資料，但前端表單卻只有MerchantID_bank，幫我確認，請用zh-tw回覆，我目前看選擇了綠界，還是顯示normaldiv2這個ID的元素，幫我確認是否js有問題，幫我確認銀行的部分就好，超商應該都是正確的，請用zh-tw回覆，我送出的時候根本沒有看到綠界的銀行有送出這個ecpay_merchant_id_bank、ecpay_hashkey_bank、ecpay_hashiv_bank這三個資料，請確認前端邏輯，幫我建立確認執行流程，有確認過程式碼邏輯是否都正確嗎

@@ -1735,11 +1735,14 @@ function pay_check2() {
 function pay_check_bank() {
 
   v = $("input[name=pay_bank]:checked").val();
-  
-  console.log('pay_check_bank() called with value:', v);
 
-  // 清空所有欄位
-  clearBankFields();
+  console.log('pay_check_bank() called with value:', v);
+  console.log('bankFundsData:', bankFundsData);
+
+  // 注意：不清空欄位，避免清除用戶正在填寫的資料
+  // 如果是編輯模式，會從 bankFundsData 載入資料
+  // 如果是新增模式，保留用戶填寫的值
+  // clearBankFields();
 
   $(".ecpaydiv_bank").hide();
   $(".ebpaydiv_bank").hide();
@@ -1760,14 +1763,16 @@ function pay_check_bank() {
   // 載入對應金流服務的資料
   if (v && v !== 'no' && bankFundsData[v]) {
       var fundData = bankFundsData[v];
-      console.log('Loading fund data for', v, ':', fundData);
-      
+      console.log('[編輯模式] Loading fund data for', v, ':', fundData);
+
       switch(v) {
           case "ecpay":
+            console.log('[綠界銀行] 載入資料到欄位');
             $("#ecpay_merchant_id_bank").val(fundData.merchant_id || '');
             $("#ecpay_hashkey_bank").val(fundData.hashkey || '');
             $("#ecpay_hashiv_bank").val(fundData.hashiv || '');
             $(".ecpaydiv_bank").show();
+            console.log('[綠界銀行] 欄位已顯示 (.ecpaydiv_bank)');
             break;
 
           case "ebpay":
@@ -1822,10 +1827,13 @@ function pay_check_bank() {
             break;
       }
   } else {
-      // 顯示預設的欄位區域，但不載入資料
+      // 顯示預設的欄位區域，但不載入資料（新增模式或無資料）
+      console.log('[新增模式] 顯示欄位但不載入資料，v =', v);
       switch(v) {
         case "ecpay":
+            console.log('[綠界銀行][新增模式] 顯示欄位 (.ecpaydiv_bank)');
             $(".ecpaydiv_bank").show();
+            console.log('[綠界銀行][新增模式] 欄位已顯示');
             break;
 
           case "ebpay":
