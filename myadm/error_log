@@ -1,0 +1,190 @@
+[13-Feb-2023 17:20:45 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:21:05 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:23:25 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:28:52 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:30:29 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:34:35 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:36:41 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:36:48 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:36:58 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:43:49 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:44:20 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:45:06 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[13-Feb-2023 17:45:15 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'des' at row 1' in /home/ezpay/public_html/myadm/server_add.php:200
+Stack trace:
+#0 /home/ezpay/public_html/myadm/server_add.php(200): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/server_add.php on line 200
+[15-Feb-2023 20:50:29 Asia/Taipei] PHP Fatal error:  Call to undefined function curl_init() in /home/ezpay/public_html/myadm/include.php on line 532
+[15-Feb-2023 20:51:10 Asia/Taipei] PHP Fatal error:  Call to undefined function curl_init() in /home/ezpay/public_html/myadm/include.php on line 532
+[15-Feb-2023 21:46:28 Asia/Taipei] PHP Fatal error:  Call to undefined function curl_init() in /home/ezpay/public_html/myadm/include.php on line 532
+[15-Feb-2023 22:41:14 Asia/Taipei] PHP Fatal error:  Call to undefined function curl_init() in /home/ezpay/public_html/myadm/include.php on line 532
+[15-Feb-2023 22:41:32 Asia/Taipei] PHP Fatal error:  Call to undefined function curl_init() in /home/ezpay/public_html/myadm/include.php on line 532
+[17-Feb-2023 20:37:00 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 20:37:18 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 20:46:10 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 20:46:14 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 20:47:52 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 20:47:58 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 21:36:26 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 21:38:56 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[17-Feb-2023 22:26:52 Asia/Taipei] test0217_1
+[17-Feb-2023 22:26:52 Asia/Taipei] test0217_3
+[17-Feb-2023 22:26:52 Asia/Taipei] 0
+[17-Feb-2023 22:27:43 Asia/Taipei] test0217_1
+[17-Feb-2023 22:27:43 Asia/Taipei] test0217_3
+[17-Feb-2023 22:27:43 Asia/Taipei] 0
+[17-Feb-2023 22:30:07 Asia/Taipei] test0217_1
+[17-Feb-2023 22:30:07 Asia/Taipei] test0217_3
+[17-Feb-2023 22:30:07 Asia/Taipei] 0
+[17-Feb-2023 22:30:52 Asia/Taipei] test0217_1
+[17-Feb-2023 22:30:52 Asia/Taipei] test0217_3
+[17-Feb-2023 22:30:52 Asia/Taipei] 0
+[17-Feb-2023 22:31:15 Asia/Taipei] test0217_1
+[17-Feb-2023 22:31:15 Asia/Taipei] test0217_3
+[17-Feb-2023 22:31:15 Asia/Taipei] 0
+[17-Feb-2023 22:31:26 Asia/Taipei] test0217_1
+[17-Feb-2023 22:31:26 Asia/Taipei] test0217_3
+[17-Feb-2023 22:31:26 Asia/Taipei] 0
+[17-Feb-2023 22:32:55 Asia/Taipei] test0217_1
+[17-Feb-2023 22:32:55 Asia/Taipei] test0217_3
+[17-Feb-2023 22:32:55 Asia/Taipei] adminid=
+[17-Feb-2023 22:33:47 Asia/Taipei] test0217_1
+[17-Feb-2023 22:33:47 Asia/Taipei] test0217_3
+[17-Feb-2023 22:33:47 Asia/Taipei] adminid=
+[17-Feb-2023 22:34:20 Asia/Taipei] test0217_1
+[17-Feb-2023 22:34:20 Asia/Taipei] test0217_3
+[17-Feb-2023 22:34:20 Asia/Taipei] adminid=,sid=
+[17-Feb-2023 22:51:46 Asia/Taipei] test0217_1
+[17-Feb-2023 22:51:46 Asia/Taipei] test0217_3
+[17-Feb-2023 22:51:46 Asia/Taipei] adminid=,sid=
+[17-Feb-2023 22:51:48 Asia/Taipei] test0217_1
+[17-Feb-2023 22:51:48 Asia/Taipei] test0217_3
+[17-Feb-2023 22:51:48 Asia/Taipei] adminid=,sid=
+[17-Feb-2023 22:55:17 Asia/Taipei] test0217
+[17-Feb-2023 22:55:54 Asia/Taipei] test0217
+[24-Feb-2023 10:50:18 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 10:52:55 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'sizes' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 10:53:52 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 10:55:57 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 10:56:53 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 10:57:33 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 11:00:02 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[24-Feb-2023 11:01:20 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52
+[10-Mar-2023 18:48:01 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'm1' at row 1' in /home/ezpay/public_html/myadm/gift.php:52
+Stack trace:
+#0 /home/ezpay/public_html/myadm/gift.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ezpay/public_html/myadm/gift.php on line 52

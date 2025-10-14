@@ -1,0 +1,832 @@
+[29-Dec-2017 15:56:51 UTC] PHP Parse error:  syntax error, unexpected 'top' (T_STRING) in /home/excellence/public_html/myadm/index.php on line 23
+[29-Dec-2017 15:58:07 UTC] PHP Parse error:  syntax error, unexpected 'top' (T_STRING) in /home/excellence/public_html/myadm/index.php on line 23
+[29-Dec-2017 15:58:19 UTC] PHP Parse error:  syntax error, unexpected 'top' (T_STRING) in /home/excellence/public_html/myadm/index.php on line 23
+[29-Dec-2017 15:59:33 UTC] PHP Parse error:  syntax error, unexpected 'top' (T_STRING) in /home/excellence/public_html/myadm/index.php on line 23
+[29-Dec-2017 15:59:59 UTC] PHP Parse error:  syntax error, unexpected 'top_html' (T_STRING) in /home/excellence/public_html/myadm/index.php on line 23
+[29-Dec-2017 16:00:15 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/excellence/public_html/myadm/include.php on line 3
+[29-Dec-2017 16:00:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 2
+[29-Dec-2017 16:00:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 2
+[29-Dec-2017 16:00:48 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 2
+[29-Dec-2017 16:00:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 2
+[29-Dec-2017 16:03:16 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 2
+[29-Dec-2017 16:03:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 2
+[29-Dec-2017 16:03:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 3
+[29-Dec-2017 16:03:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 3
+[29-Dec-2017 16:03:55 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 3
+[29-Dec-2017 16:03:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 3
+[29-Dec-2017 16:04:03 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:04:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:04:13 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:04:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:05:04 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:05:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:05:43 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 2
+[29-Dec-2017 16:05:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 2
+[29-Dec-2017 16:09:40 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/excellence/public_html/myadm/include.php on line 149
+[29-Dec-2017 16:10:16 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 4
+[29-Dec-2017 16:15:16 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 4
+[29-Dec-2017 16:16:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/excellence/public_html/myadm/include.php on line 90
+[29-Dec-2017 16:21:59 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 4
+[29-Dec-2017 16:25:04 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 4
+[29-Dec-2017 16:25:08 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 4
+[29-Dec-2017 16:25:26 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 4
+[29-Dec-2017 16:37:46 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:47:03 UTC] PHP Fatal error:  Call to undefined function check_login() in /home/excellence/public_html/myadm/index.php on line 3
+[29-Dec-2017 16:55:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/excellence/public_html/myadm/userlist.php on line 7
+[29-Dec-2017 16:55:45 UTC] PHP Fatal error:  Call to undefined function check_page_power() in /home/excellence/public_html/myadm/userlist.php on line 5
+[29-Dec-2017 17:29:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/excellence/public_html/myadm/userlist.php on line 84
+[29-Dec-2017 17:29:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/excellence/public_html/myadm/userlist.php on line 84
+[29-Dec-2017 17:30:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/excellence/public_html/myadm/userlist.php on line 84
+[29-Dec-2017 17:31:54 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 241
+[29-Dec-2017 17:31:54 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 242
+[29-Dec-2017 17:32:51 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 241
+[29-Dec-2017 17:32:51 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 242
+[29-Dec-2017 17:35:00 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 241
+[29-Dec-2017 17:35:00 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 242
+[29-Dec-2017 17:49:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/excellence/public_html/myadm/userlist.php on line 102
+[30-Dec-2017 01:07:09 UTC] PHP Warning:  Illegal string offset 't' in /home/excellence/public_html/myadm/userlist.php on line 88
+[30-Dec-2017 01:14:35 UTC] PHP Fatal error:  Call to undefined method PDO::SelectLimit() in /home/excellence/public_html/myadm/userlist.php on line 90
+[30-Dec-2017 01:34:02 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/excellence/public_html/myadm/include.php on line 241
+[30-Dec-2017 01:34:02 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/excellence/public_html/myadm/include.php on line 243
+[30-Dec-2017 01:34:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/excellence/public_html/myadm/include.php on line 243
+[30-Dec-2017 01:34:02 UTC] PHP Fatal error:  Call to undefined function unparse_url() in /home/excellence/public_html/myadm/include.php on line 245
+[30-Dec-2017 01:34:42 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/excellence/public_html/myadm/include.php on line 241
+[30-Dec-2017 01:34:42 UTC] PHP Warning:  array_filter() expects parameter 1 to be array, null given in /home/excellence/public_html/myadm/include.php on line 243
+[30-Dec-2017 01:34:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/excellence/public_html/myadm/include.php on line 243
+[30-Dec-2017 01:34:42 UTC] PHP Fatal error:  Call to undefined function unparse_url() in /home/excellence/public_html/myadm/include.php on line 245
+[30-Dec-2017 01:40:22 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/excellence/public_html/myadm/include.php on line 242
+[30-Dec-2017 01:40:35 UTC] PHP Warning:  Missing argument 2 for remove_from_query_string(), called in /home/excellence/public_html/myadm/include.php on line 249 and defined in /home/excellence/public_html/myadm/include.php on line 238
+[30-Dec-2017 01:40:42 UTC] PHP Warning:  Missing argument 2 for remove_from_query_string(), called in /home/excellence/public_html/myadm/include.php on line 249 and defined in /home/excellence/public_html/myadm/include.php on line 238
+[30-Dec-2017 01:40:44 UTC] PHP Warning:  Missing argument 2 for remove_from_query_string(), called in /home/excellence/public_html/myadm/include.php on line 249 and defined in /home/excellence/public_html/myadm/include.php on line 238
+[30-Dec-2017 01:50:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/excellence/public_html/myadm/include.php on line 95
+[30-Dec-2017 01:54:27 UTC] PHP Fatal error:  Call to undefined function ccheck_login() in /home/excellence/public_html/myadm/useradd.php on line 3
+[30-Dec-2017 02:00:02 UTC] PHP Parse error:  syntax error, unexpected '$tt2' (T_VARIABLE) in /home/excellence/public_html/myadm/useradd.php on line 11
+[30-Dec-2017 02:00:30 UTC] PHP Parse error:  syntax error, unexpected 'R2' (T_STRING) in /home/excellence/public_html/myadm/useradd.php on line 64
+[30-Dec-2017 02:00:32 UTC] PHP Parse error:  syntax error, unexpected 'R2' (T_STRING) in /home/excellence/public_html/myadm/useradd.php on line 64
+[30-Dec-2017 02:01:43 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 248
+[30-Dec-2017 02:01:43 UTC] PHP Warning:  Division by zero in /home/excellence/public_html/myadm/include.php on line 249
+[30-Dec-2017 02:01:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/excellence/public_html/myadm/useradd.php on line 7
+[30-Dec-2017 02:02:26 UTC] PHP Fatal error:  Call to a member function query() on null in /home/excellence/public_html/myadm/useradd.php on line 6
+[30-Dec-2017 02:04:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Unknown character set' in /home/excellence/public_html/myadm/include.php:248
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(248): PDO->__construct('mysql:dbname=;h...', NULL, NULL)
+#1 /home/excellence/public_html/myadm/useradd.php(6): openpdo()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 248
+[30-Dec-2017 02:06:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Unknown character set' in /home/excellence/public_html/myadm/include.php:250
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(250): PDO->__construct('mysql:dbname=;h...', NULL, NULL, Array)
+#1 /home/excellence/public_html/myadm/useradd.php(6): openpdo()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 250
+[30-Dec-2017 02:07:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /home/excellence/public_html/myadm/include.php:244
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(244): PDO->__construct('mysql:host=loca...', NULL, NULL, Array)
+#1 /home/excellence/public_html/myadm/useradd.php(6): db_connect()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 244
+[30-Dec-2017 02:07:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /home/excellence/public_html/myadm/include.php:244
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(244): PDO->__construct('mysql:host=loca...', NULL, NULL, Array)
+#1 /home/excellence/public_html/myadm/useradd.php(6): db_connect()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 244
+[30-Dec-2017 02:08:21 UTC] PHP Warning:  Illegal string offset 'an' in /home/excellence/public_html/myadm/useradd.php on line 7
+[30-Dec-2017 02:08:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[3D000]: Invalid catalog name: 1046 No database selected' in /home/excellence/public_html/myadm/useradd.php:7
+Stack trace:
+#0 /home/excellence/public_html/myadm/useradd.php(7): PDO->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/useradd.php on line 7
+[30-Dec-2017 02:08:50 UTC] PHP Warning:  Illegal string offset 'an' in /home/excellence/public_html/myadm/useradd.php on line 7
+[30-Dec-2017 02:09:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2019] Unknown character set' in /home/excellence/public_html/myadm/include.php:258
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(258): PDO->__construct('mysql:dbname=;h...', NULL, NULL, Array)
+#1 /home/excellence/public_html/myadm/userlist.php(71): openpdo()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 258
+[30-Dec-2017 02:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/excellence/public_html/myadm/useradd.php:1) in /home/excellence/public_html/myadm/useradd.php on line 24
+[30-Dec-2017 02:36:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/excellence/public_html/myadm/userlist.php:11
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 11
+[30-Dec-2017 02:37:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/excellence/public_html/myadm/userlist.php:11
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 11
+[30-Dec-2017 02:38:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where auton='16'' at line 1' in /home/excellence/public_html/myadm/userlist.php:11
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 11
+[30-Dec-2017 02:38:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where auton='16'' at line 1' in /home/excellence/public_html/myadm/userlist.php:11
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 11
+[30-Dec-2017 02:38:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where auton='16'' at line 1' in /home/excellence/public_html/myadm/userlist.php:11
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 11
+[30-Dec-2017 02:38:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where auton='16'' at line 1' in /home/excellence/public_html/myadm/userlist.php:11
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 11
+[30-Dec-2017 02:39:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where auton='16'' at line 1' in /home/excellence/public_html/myadm/userlist.php:12
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 12
+[30-Dec-2017 02:39:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''manager' where 'auton'='16'' at line 1' in /home/excellence/public_html/myadm/userlist.php:12
+Stack trace:
+#0 /home/excellence/public_html/myadm/userlist.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/userlist.php on line 12
+[30-Dec-2017 03:03:14 UTC] PHP Fatal error:  Call to undefined function check_list_power() in /home/excellence/public_html/myadm/include.php on line 78
+[30-Dec-2017 03:03:16 UTC] PHP Fatal error:  Call to undefined function check_list_power() in /home/excellence/public_html/myadm/include.php on line 78
+[30-Dec-2017 03:29:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/excellence/public_html/myadm/login.php on line 34
+[30-Dec-2017 03:29:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/excellence/public_html/myadm/login.php on line 34
+[30-Dec-2017 03:29:35 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/excellence/public_html/myadm/login.php on line 37
+[30-Dec-2017 03:33:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 * FROM manager where uid=':uid'' at line 1' in /home/excellence/public_html/myadm/login.php:8
+Stack trace:
+#0 /home/excellence/public_html/myadm/login.php(8): PDO->query('SELECT top 1 * ...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/login.php on line 8
+[30-Dec-2017 03:34:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 * FROM manager where uid=:uid' at line 1' in /home/excellence/public_html/myadm/login.php:8
+Stack trace:
+#0 /home/excellence/public_html/myadm/login.php(8): PDO->query('SELECT top 1 * ...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/login.php on line 8
+[30-Dec-2017 03:54:24 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 10
+[30-Dec-2017 03:54:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 10
+[30-Dec-2017 03:54:48 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 1
+[30-Dec-2017 03:54:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/include.php on line 1
+[30-Dec-2017 03:59:33 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 2
+[30-Dec-2017 03:59:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/index.php:1) in /home/excellence/public_html/myadm/index.php on line 2
+[30-Dec-2017 04:00:40 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/login.php:1) in /home/excellence/public_html/myadm/login.php on line 2
+[30-Dec-2017 04:00:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/login.php:1) in /home/excellence/public_html/myadm/login.php on line 2
+[30-Dec-2017 04:00:42 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/excellence/public_html/myadm/login.php:1) in /home/excellence/public_html/myadm/login.php on line 2
+[30-Dec-2017 04:00:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/excellence/public_html/myadm/login.php:1) in /home/excellence/public_html/myadm/login.php on line 2
+[30-Dec-2017 04:39:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/excellence/public_html/myadm/index.php on line 52
+[30-Dec-2017 04:39:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/excellence/public_html/myadm/index.php on line 54
+[30-Dec-2017 06:29:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/excellence/public_html/myadm/server_add.php:34
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 34
+[30-Dec-2017 06:30:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/excellence/public_html/myadm/server_add.php:34
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 34
+[30-Dec-2017 06:33:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/excellence/public_html/myadm/server_add.php:34
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 34
+[30-Dec-2017 06:33:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/excellence/public_html/myadm/server_add.php:34
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 34
+[30-Dec-2017 06:33:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='' in /home/excellence/public_html/myadm/server_add.php:34
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 34
+[30-Dec-2017 06:35:33 UTC] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/excellence/public_html/myadm/server_add.php on line 35
+[30-Dec-2017 06:35:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':)' at line 1' in /home/excellence/public_html/myadm/server_add.php:45
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 45
+[30-Dec-2017 06:36:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':)' at line 1' in /home/excellence/public_html/myadm/server_add.php:45
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 45
+[30-Dec-2017 06:38:28 UTC] PHP Parse error:  syntax error, unexpected 'server_add' (T_STRING), expecting ',' or ';' in /home/excellence/public_html/myadm/index.php on line 88
+[30-Dec-2017 06:39:45 UTC] PHP Warning:  Illegal string offset 'base_money' in /home/excellence/public_html/myadm/server_add.php on line 70
+[30-Dec-2017 06:39:45 UTC] PHP Warning:  Illegal string offset 'base_money' in /home/excellence/public_html/myadm/server_add.php on line 71
+[30-Dec-2017 06:40:14 UTC] PHP Warning:  Illegal string offset 'base_money' in /home/excellence/public_html/myadm/server_add.php on line 70
+[30-Dec-2017 06:40:14 UTC] PHP Warning:  Illegal string offset 'base_money' in /home/excellence/public_html/myadm/server_add.php on line 71
+[30-Dec-2017 07:15:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/excellence/public_html/myadm/index.php on line 71
+[30-Dec-2017 07:58:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/excellence/public_html/myadm/index.php:12
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 12
+[30-Dec-2017 07:59:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/excellence/public_html/myadm/index.php:13
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 13
+[30-Dec-2017 08:00:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/excellence/public_html/myadm/index.php:13
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 13
+[30-Dec-2017 08:00:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/excellence/public_html/myadm/index.php:13
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 13
+[30-Dec-2017 08:00:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/excellence/public_html/myadm/index.php:13
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 13
+[30-Dec-2017 08:23:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/excellence/public_html/myadm/index.php:23
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(23): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 23
+[30-Dec-2017 08:23:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/excellence/public_html/myadm/index.php:23
+Stack trace:
+#0 /home/excellence/public_html/myadm/index.php(23): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/index.php on line 23
+[30-Dec-2017 08:37:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'excellen_main.servers_bi' doesn't exist' in /home/excellence/public_html/myadm/server_bi.php:76
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_bi.php(76): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_bi.php on line 76
+[30-Dec-2017 08:56:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/excellence/public_html/myadm/server_bi_add.php on line 49
+[30-Dec-2017 08:59:47 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/excellence/public_html/myadm/server_bi_add.php on line 34
+[30-Dec-2017 08:59:50 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/excellence/public_html/myadm/server_bi_add.php on line 34
+[30-Dec-2017 09:00:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/excellence/public_html/myadm/server_bi.php:32
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_bi.php(32): PDO->query('SELECT names FR...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_bi.php on line 32
+[30-Dec-2017 12:13:14 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/excellence/public_html/myadm/index.php on line 120
+[30-Dec-2017 12:13:16 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ';' in /home/excellence/public_html/myadm/index.php on line 120
+[30-Dec-2017 13:52:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','2000132','5294y06JbISpM5x9','v77hoKGq4kWxNNIS' where auton='7'' at line 1' in /home/excellence/public_html/myadm/server_add.php:62
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 62
+[30-Dec-2017 13:52:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','2000132','5294y06JbISpM5x9','v77hoKGq4kWxNNIS' where auton='7'' at line 1' in /home/excellence/public_html/myadm/server_add.php:62
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 62
+[30-Dec-2017 14:11:25 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/excellence/public_html/myadm/index.php on line 114
+[30-Dec-2017 14:11:27 UTC] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/excellence/public_html/myadm/index.php on line 114
+[30-Dec-2017 14:46:10 UTC] PHP Parse error:  syntax error, unexpected '"<td>"' (T_CONSTANT_ENCAPSED_STRING) in /home/excellence/public_html/myadm/list.php on line 132
+[30-Dec-2017 14:46:27 UTC] PHP Parse error:  syntax error, unexpected '"<td>"' (T_CONSTANT_ENCAPSED_STRING) in /home/excellence/public_html/myadm/list.php on line 132
+[30-Dec-2017 14:46:59 UTC] PHP Parse error:  syntax error, unexpected '付款失敗' (T_STRING) in /home/excellence/public_html/myadm/list.php on line 143
+[30-Dec-2017 15:04:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'auton in (27,26,25,24,23,22,21,20,19,18,17,16,15,14,13)' at line 1' in /home/excellence/public_html/myadm/list.php:10
+Stack trace:
+#0 /home/excellence/public_html/myadm/list.php(10): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/list.php on line 10
+[30-Dec-2017 15:08:38 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/excellence/public_html/myadm/list.php on line 49
+[30-Dec-2017 15:26:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/excellence/public_html/myadm/list.php on line 67
+[30-Dec-2017 15:53:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: 2isdel' in /home/excellence/public_html/myadm/list.php:114
+Stack trace:
+#0 /home/excellence/public_html/myadm/list.php(114): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/list.php on line 114
+[30-Dec-2017 15:54:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: 2isdel' in /home/excellence/public_html/myadm/list.php:115
+Stack trace:
+#0 /home/excellence/public_html/myadm/list.php(115): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/list.php on line 115
+[30-Dec-2017 15:55:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: 2isdel' in /home/excellence/public_html/myadm/list.php:115
+Stack trace:
+#0 /home/excellence/public_html/myadm/list.php(115): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/list.php on line 115
+[30-Dec-2017 15:55:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1327 Undeclared variable: 2isdel' in /home/excellence/public_html/myadm/list.php:115
+Stack trace:
+#0 /home/excellence/public_html/myadm/list.php(115): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/list.php on line 115
+[30-Dec-2017 16:07:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/excellence/public_html/myadm/include.php on line 96
+[31-Dec-2017 09:08:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/excellence/public_html/myadm/include.php:222
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(222): PDO->__construct('mysql:host=idcp...', 'root', 'root', Array)
+#1 /home/excellence/public_html/myadm/index.php(29): opengamepdo()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 222
+[31-Dec-2017 09:39:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/excellence/public_html/myadm/include.php:222
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(222): PDO->__construct('mysql:host=60.2...', 'root', 'root', Array)
+#1 /home/excellence/public_html/myadm/index.php(29): opengamepdo()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 222
+[31-Dec-2017 09:40:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection timed out' in /home/excellence/public_html/myadm/include.php:222
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(222): PDO->__construct('mysql:host=60.2...', 'root', 'root', Array)
+#1 /home/excellence/public_html/myadm/index.php(29): opengamepdo()
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 222
+[31-Dec-2017 09:40:09 UTC] PHP Fatal error:  Call to a member function fetch() on null in /home/excellence/public_html/myadm/index.php on line 31
+[31-Dec-2017 09:40:10 UTC] PHP Fatal error:  Call to a member function fetch() on null in /home/excellence/public_html/myadm/index.php on line 31
+[31-Dec-2017 10:11:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/excellence/public_html/myadm/server_test_connect.php on line 9
+[31-Dec-2017 10:24:23 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/excellence/public_html/myadm/include.php on line 223
+[31-Dec-2017 10:24:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known' in /home/excellence/public_html/myadm/include.php:223
+Stack trace:
+#0 /home/excellence/public_html/myadm/include.php(223): PDO->__construct('mysql:host=60.2...', 'root', 'root', Array)
+#1 /home/excellence/public_html/myadm/server_test_connect.php(13): opengamepdo('60.251.73.841', '10636', '270', 'root', 'root')
+#2 {main}
+  thrown in /home/excellence/public_html/myadm/include.php on line 223
+[31-Dec-2017 10:26:36 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/excellence/public_html/myadm/include.php on line 223
+[31-Dec-2017 10:41:30 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[31-Dec-2017 10:42:05 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/excellence/public_html/myadm/server_test_connect.php on line 17
+[31-Dec-2017 10:42:07 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/excellence/public_html/myadm/server_test_connect.php on line 17
+[31-Dec-2017 12:56:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'base_money, gstats, MerchantID, HashKey, HashIV) VALUES('史巴托天堂','spar'' at line 1' in /home/excellence/public_html/myadm/server_add.php:52
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 52
+[31-Dec-2017 12:57:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'base_money, gstats, MerchantID, HashKey, HashIV) VALUES('史巴托天堂','spar'' at line 1' in /home/excellence/public_html/myadm/server_add.php:52
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 52
+[31-Dec-2017 13:02:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'base_money, gstats, MerchantID, HashKey, HashIV) VALUES('史巴托天堂','spar'' at line 1' in /home/excellence/public_html/myadm/server_add.php:52
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 52
+[31-Dec-2017 13:03:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'base_money, gstats, MerchantID, HashKey, HashIV) VALUES('史巴托天堂','spar'' at line 1' in /home/excellence/public_html/myadm/server_add.php:52
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 52
+[31-Dec-2017 13:07:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'base_money, gstats, MerchantID, HashKey, HashIV) VALUES('test','test','1','','',' at line 1' in /home/excellence/public_html/myadm/server_add.php:52
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 52
+[31-Dec-2017 13:08:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'base_money, gstats, MerchantID, HashKey, HashIV) VALUES('史巴托天堂','spa',' at line 1' in /home/excellence/public_html/myadm/server_add.php:52
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_add.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_add.php on line 52
+[31-Dec-2017 13:28:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/excellence/public_html/myadm/server_add.php on line 62
+[31-Dec-2017 14:46:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/excellence/public_html/myadm/gift.php on line 115
+[31-Dec-2017 15:13:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/excellence/public_html/myadm/gift.php:43
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(43): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 43
+[31-Dec-2017 15:27:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/excellence/public_html/myadm/gift.php on line 87
+[31-Dec-2017 15:31:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 16
+[31-Dec-2017 15:31:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 22
+[31-Dec-2017 15:31:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 30
+[31-Dec-2017 15:31:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'foran' cannot be null' in /home/excellence/public_html/myadm/gift.php:46
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 46
+[31-Dec-2017 16:10:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 110
+[31-Dec-2017 16:10:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'm2' cannot be null' in /home/excellence/public_html/myadm/gift.php:139
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(139): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 139
+[31-Dec-2017 16:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 110
+[31-Dec-2017 16:10:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'm2' cannot be null' in /home/excellence/public_html/myadm/gift.php:139
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(139): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 139
+[31-Dec-2017 16:11:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 106
+[31-Dec-2017 16:11:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'm2' cannot be null' in /home/excellence/public_html/myadm/gift.php:131
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(131): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 131
+[06-Mar-2018 23:09:16 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 92. Packet size=4325552 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[06-Mar-2018 23:09:16 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[06-Mar-2018 23:09:16 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=4546 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[06-Mar-2018 23:09:43 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 5. Packet size=15495112 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[06-Mar-2018 23:09:43 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[06-Mar-2018 23:09:43 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=4589 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:42:18 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 59. Packet size=1423394 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:42:18 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:42:18 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=24239 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:52:50 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 6. Packet size=11284609 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:52:50 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:52:50 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=26603 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:00 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 57. Packet size=13026478 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:00 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:00 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28042 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:05 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 92. Packet size=1567709 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:05 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:05 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28051 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:08 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=16051424 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:08 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:08 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28062 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:12 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 83. Packet size=7962272 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:12 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:12 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28090 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:14 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 57. Packet size=13244934 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:14 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:14 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28101 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:17 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 94. Packet size=8692302 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:17 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:17 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28107 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:29 Asia/Taipei] PHP Warning:  Packets out of order. Expected 0 received 102. Packet size=125530 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:29 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[11-May-2018 04:59:29 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28140 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[07-Jun-2018 23:31:23 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 16
+[07-Jun-2018 23:31:23 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 22
+[07-Jun-2018 23:31:23 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 30
+[07-Jun-2018 23:31:23 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'foran' cannot be null' in /home/excellence/public_html/myadm/gift.php:46
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 46
+[07-Jun-2018 23:31:38 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 16
+[07-Jun-2018 23:31:38 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 22
+[07-Jun-2018 23:31:38 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 30
+[07-Jun-2018 23:31:38 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'foran' cannot be null' in /home/excellence/public_html/myadm/gift.php:46
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 46
+[15-Jun-2018 23:38:41 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[15-Jun-2018 23:38:41 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=20086 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[13-Jul-2018 18:17:14 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 16
+[13-Jul-2018 18:17:14 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 22
+[13-Jul-2018 18:17:14 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 30
+[13-Jul-2018 18:17:14 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'foran' cannot be null' in /home/excellence/public_html/myadm/gift.php:46
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 46
+[25-Sep-2018 12:59:53 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 16
+[25-Sep-2018 12:59:53 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 22
+[25-Sep-2018 12:59:53 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 30
+[25-Sep-2018 12:59:53 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'foran' cannot be null' in /home/excellence/public_html/myadm/gift.php:46
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 46
+[25-Sep-2018 13:00:00 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 16
+[25-Sep-2018 13:00:00 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 22
+[25-Sep-2018 13:00:00 Asia/Taipei] PHP Warning:  Invalid argument supplied for foreach() in /home/excellence/public_html/myadm/gift.php on line 30
+[25-Sep-2018 13:00:00 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'foran' cannot be null' in /home/excellence/public_html/myadm/gift.php:46
+Stack trace:
+#0 /home/excellence/public_html/myadm/gift.php(46): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/gift.php on line 46
+[07-Oct-2018 16:24:25 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table '36302.shop_user' doesn't exist' in /home/excellence/public_html/myadm/server_test_connect.php:33
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_test_connect.php(33): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_test_connect.php on line 33
+[26-Dec-2018 15:09:18 Asia/Taipei] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[26-Dec-2018 15:09:18 Asia/Taipei] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28963 in /home/excellence/public_html/myadm/server_test_connect.php on line 22
+[06-Feb-2019 19:02:33 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db6.shop_user' doesn't exist' in /home/excellence/public_html/myadm/server_test_connect.php:33
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_test_connect.php(33): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_test_connect.php on line 33
+[06-Feb-2019 19:05:25 Asia/Taipei] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db6.shop_user' doesn't exist' in /home/excellence/public_html/myadm/server_test_connect.php:33
+Stack trace:
+#0 /home/excellence/public_html/myadm/server_test_connect.php(33): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home/excellence/public_html/myadm/server_test_connect.php on line 33
+[01-Feb-2023 02:23:47 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:47 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Deprecated:  Implicit conversion from float 116.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 42.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 116.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 116.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:57 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:58 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:23:59 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 42.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[01-Feb-2023 02:24:02 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 22:52:36 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:52:41 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:52:42 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:52:46 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:52:51 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:53:01 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:53:10 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 22:53:12 Asia/Taipei] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home/ezpay/public_html/ccc/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/ezpay/public_html/ccc/index.php on line 127
+[04-Feb-2023 15:06:32 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:06:32 UTC] PHP Deprecated:  Implicit conversion from float 40.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:06:32 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:06:32 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:06:32 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:06:32 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:11 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:11 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:20 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:20 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:20 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:20 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:20 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:20 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:28 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:28 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:28 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:28 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:28 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:28 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:33 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:33 UTC] PHP Deprecated:  Implicit conversion from float 42.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:33 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:33 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:33 UTC] PHP Deprecated:  Implicit conversion from float 115.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:07:33 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:43 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:43 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:43 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:43 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:43 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:43 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:53 UTC] PHP Deprecated:  Implicit conversion from float 39.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:53 UTC] PHP Deprecated:  Implicit conversion from float 116.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 15:22:53 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:13:16 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:13:16 UTC] PHP Deprecated:  Implicit conversion from float 41.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:13:16 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:13:16 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:13:16 UTC] PHP Deprecated:  Implicit conversion from float 116.5 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:13:16 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 69
+[04-Feb-2023 16:21:40 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[04-Feb-2023 16:21:51 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[04-Feb-2023 16:21:52 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[04-Feb-2023 16:24:05 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[04-Feb-2023 16:45:17 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 09:27:56 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 09:28:04 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 09:28:07 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 13:49:30 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 13:57:09 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 13:59:02 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 13:59:04 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 13:59:58 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 14:00:00 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 14:00:01 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 14:00:02 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 14:02:10 UTC] PHP Fatal error:  Call to undefined function imagecreatetruecolor() in /home/ezpay/public_html/ccc/phpclass/psn.class.php on line 35
+[05-Feb-2023 15:08:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:08:54 UTC] PHP Deprecated:  Implicit conversion from float 42.5 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:08:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:08:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:08:54 UTC] PHP Deprecated:  Implicit conversion from float 114.5 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:08:54 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:09:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:09:11 UTC] PHP Deprecated:  Implicit conversion from float 42.5 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:09:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:09:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:09:11 UTC] PHP Deprecated:  Implicit conversion from float 117.5 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[05-Feb-2023 15:09:11 UTC] PHP Deprecated:  Implicit conversion from float 28.571428571428573 to int loses precision in /home/ezpay/public_html/phpclass/psn.class.php on line 69
+[20-Feb-2023 22:28:47 Asia/Taipei] test_0220
+[20-Feb-2023 22:28:47 Asia/Taipei] PaymentDate=
+[20-Feb-2023 22:32:34 Asia/Taipei] test_0220
+[20-Feb-2023 22:32:34 Asia/Taipei] PaymentDate=2023/02/20 22:32:33
+[20-Feb-2023 22:36:08 Asia/Taipei] test_0220
+[20-Feb-2023 22:36:08 Asia/Taipei] PaymentDate=2023/02/20 22:36:08
+[20-Feb-2023 22:36:12 Asia/Taipei] test_0220
+[20-Feb-2023 22:36:12 Asia/Taipei] PaymentDate=2023/02/20 22:36:12
+[20-Feb-2023 22:36:15 Asia/Taipei] test_0220
+[20-Feb-2023 22:36:15 Asia/Taipei] PaymentDate=2023/02/20 22:36:15
+[20-Feb-2023 22:36:17 Asia/Taipei] test_0220
+[20-Feb-2023 22:36:17 Asia/Taipei] PaymentDate=2023/02/20 22:36:17
+[20-Feb-2023 22:36:18 Asia/Taipei] test_0220
+[20-Feb-2023 22:36:18 Asia/Taipei] PaymentDate=2023/02/20 22:36:18
+[11-Mar-2023 01:39:27 Asia/Taipei] test_0220
+[11-Mar-2023 01:39:27 Asia/Taipei] PaymentDate=2023/03/11 01:39:27
