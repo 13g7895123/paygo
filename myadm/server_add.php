@@ -710,23 +710,11 @@ if(_r("st") == 'addsave') {
 
     $query->execute($dbclassupdateprep);
 
-	// 取得新建立的伺服器ID
-	$new_server_id = $pdo->lastInsertId();
-	
-	// 處理銀行轉帳金流設定
-	$new_id = $pdo->lastInsertId();
+	// 取得新建立的伺服器 auton（自動遞增主鍵）
+	$new_server_auton = $pdo->lastInsertId();
 
-    // 查詢新伺服器的 auton 值
-    $auton_query = $pdo->prepare("SELECT auton FROM servers WHERE id = :id");
-    $auton_query->bindValue(':id', $new_id, PDO::PARAM_INT);
-    $auton_query->execute();
-    $server_data = $auton_query->fetch();
-    $new_server_auton = $server_data['auton'];
-
-    // 使用 auton 儲存銀行金流資料和派獎設定
-    save_bank_funds($pdo, $new_server_auton);
-
-    // 處理派獎設定
+	// 使用 auton 儲存銀行金流資料和派獎設定
+	save_bank_funds($pdo, $new_server_auton);
 	save_gift_settings($pdo, $new_server_auton);
 
     alert("伺服器新增完成。", "index.php");
