@@ -1,3 +1,1 @@
-1. 看到/myadm/api/gift_api.php這隻檔案，他的290行，因為php版本的緣故，不支援這個寫法，幫我調整所有這隻檔案有用到??的地方
-2. 幫我確認一下，他需求寫要php7.0.0，如果只有5.6.40可以跑得起來嗎，有辦法調整成5.6.40可以支援的嗎
-3. 幫我寫一支API，存取bank_funds這個資料表的server_code欄位，拿來搜尋servers這張表的id，取到他的auton，再把這筆資料更新進bank_funds這個資料表的server_code欄位
+1. 為甚麼server_add.php的綠界與藍新銀行轉帳，他們吃ecpay_merchant_id_bank等等ecpay開頭的資料，但前端表單卻只有MerchantID_bank，幫我確認，請用zh-tw回覆，我目前看選擇了綠界，還是顯示normaldiv2這個ID的元素，幫我確認是否js有問題，幫我確認銀行的部分就好，超商應該都是正確的，請用zh-tw回覆

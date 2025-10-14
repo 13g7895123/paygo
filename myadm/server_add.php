@@ -305,9 +305,9 @@ function save_bank_funds($pdo, $server_id) {
     switch($pay_bank) {
         case 'ecpay':
             // 綠界金流
-            $merchant_id = _r("MerchantID_bank");
-            $hashkey = _r("HashKey_bank");
-            $hashiv = _r("HashIV_bank");
+            $merchant_id = _r("ecpay_merchant_id_bank");
+            $hashkey = _r("ecpay_hashkey_bank");
+            $hashiv = _r("ecpay_hashiv_bank");
             
             if(!empty($merchant_id)) {
                 $bank_funds_data[] = [
