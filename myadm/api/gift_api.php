@@ -738,10 +738,11 @@ function handle_get_gift_logs($pdo) {
     // 構建查詢條件
     $where_conditions = [];
     $params = [];
-    $allowed_servers = []; // 初始化變數
 
-    // 如果是分享用戶，限制只能查看有權限的伺服器的記錄
+    // 處理伺服器權限和篩選（合併處理避免重複條件）
     if (!$is_admin && $user_id) {
+        // 分享用戶：需要檢查伺服器權限
+
         // 取得該用戶有權限的伺服器列表
         $allowed_servers_query = $pdo->prepare("
             SELECT s.auton
@@ -767,27 +768,31 @@ function handle_get_gift_logs($pdo) {
             return;
         }
 
-        // 限制只能查詢有權限的伺服器 - 使用命名參數避免與其他參數混用
-        $placeholders = [];
-        foreach ($allowed_servers as $index => $allowed_server) {
-            $param_name = ":allowed_server_{$index}";
-            $placeholders[] = $param_name;
-            $params[$param_name] = $allowed_server;
-        }
-        $where_conditions[] = "server_id IN (" . implode(',', $placeholders) . ")";
-    }
-
-    // 伺服器篩選
-    if (!empty($server_id)) {
-        // 如果是分享用戶，需要額外檢查該伺服器是否在允許列表中
-        if (!$is_admin && $user_id && !empty($allowed_servers)) {
+        // 根據是否指定 server_id 選擇不同的查詢策略
+        if (!empty($server_id)) {
+            // 有指定 server_id：檢查權限後只使用 = 條件
             if (!in_array($server_id, $allowed_servers)) {
                 api_error('Access denied: You do not have permission to view this server', 403);
             }
+            $where_conditions[] = "server_id = :server_id";
+            $params[':server_id'] = $server_id;
+        } else {
+            // 沒指定 server_id：使用 IN 子句限制只能查看有權限的伺服器
+            $placeholders = [];
+            foreach ($allowed_servers as $index => $allowed_server) {
+                $param_name = ":allowed_server_{$index}";
+                $placeholders[] = $param_name;
+                $params[$param_name] = $allowed_server;
+            }
+            $where_conditions[] = "server_id IN (" . implode(',', $placeholders) . ")";
         }
-
-        $where_conditions[] = "server_id = :server_id";
-        $params[':server_id'] = $server_id;
+    } else {
+        // 管理員：沒有權限限制
+        if (!empty($server_id)) {
+            $where_conditions[] = "server_id = :server_id";
+            $params[':server_id'] = $server_id;
+        }
+        // 管理員沒指定 server_id 時，不加任何 server_id 條件（可查看所有伺服器）
     }
 
     // 遊戲帳號篩選
