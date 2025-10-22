@@ -767,12 +767,14 @@ function handle_get_gift_logs($pdo) {
             return;
         }
 
-        // 限制只能查詢有權限的伺服器
-        $placeholders = implode(',', array_fill(0, count($allowed_servers), '?'));
-        $where_conditions[] = "server_id IN ($placeholders)";
-        foreach ($allowed_servers as $allowed_server) {
-            $params[] = $allowed_server;
+        // 限制只能查詢有權限的伺服器 - 使用命名參數避免與其他參數混用
+        $placeholders = [];
+        foreach ($allowed_servers as $index => $allowed_server) {
+            $param_name = ":allowed_server_{$index}";
+            $placeholders[] = $param_name;
+            $params[$param_name] = $allowed_server;
         }
+        $where_conditions[] = "server_id IN (" . implode(',', $placeholders) . ")";
     }
 
     // 伺服器篩選
@@ -802,36 +804,17 @@ function handle_get_gift_logs($pdo) {
 
     $where_sql = empty($where_conditions) ? '' : 'WHERE ' . implode(' AND ', $where_conditions);
 
-    // 準備 PDO 參數綁定
-    $count_params = [];
-    $query_params = [];
-    $param_index = 1;
-
-    foreach ($params as $key => $value) {
-        if (is_string($key)) {
-            // 命名參數
-            $count_params[$key] = $value;
-            $query_params[$key] = $value;
-        } else {
-            // 位置參數（用於 IN 子句）
-            $count_params[$param_index] = $value;
-            $query_params[$param_index] = $value;
-            $param_index++;
-        }
-    }
-
     // 取得總數
     $count_query = $pdo->prepare("SELECT COUNT(*) FROM send_gift_logs $where_sql");
-    foreach ($count_params as $key => $value) {
-        $type = is_string($key) ? PDO::PARAM_STR : PDO::PARAM_STR;
-        $count_query->bindValue($key, $value, $type);
+    foreach ($params as $key => $value) {
+        $count_query->bindValue($key, $value, PDO::PARAM_STR);
     }
     $count_query->execute();
     $total = $count_query->fetchColumn();
 
-    // 取得資料
-    $query_params[':limit'] = $limit;
-    $query_params[':offset'] = $offset;
+    // 取得資料 - 添加 limit 和 offset 參數
+    $params[':limit'] = $limit;
+    $params[':offset'] = $offset;
 
     $query = $pdo->prepare("
         SELECT id, server_id, server_name, game_account, items, total_items,
@@ -842,7 +825,7 @@ function handle_get_gift_logs($pdo) {
         LIMIT :limit OFFSET :offset
     ");
 
-    foreach ($query_params as $key => $value) {
+    foreach ($params as $key => $value) {
         if (in_array($key, [':limit', ':offset'])) {
             $type = PDO::PARAM_INT;
         } else {
