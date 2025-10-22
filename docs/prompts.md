@@ -1,2 +1,1 @@
-1. server_add.php該頁面如果新增伺服器同時新增銀行轉帳資料會出現以下錯誤，Fatal error: Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'server_code' cannot be null' in /www/wwwroot/paygo.tw/myadm/server_add.php:488 Stack trace: #0 /www/wwwroot/paygo.tw/myadm/server_add.php(488): PDOStatement->execute() #1 /www/wwwroot/paygo.tw/myadm/server_add.php(727): save_bank_funds(Object(PDO), NULL) #2 {main} thrown in /www/wwwroot/paygo.tw/myadm/server_add.php on line 488，請分析原因並用zh-tw回覆，這個方案可以同時符合更新的情境嗎
-2. 幫我移除.vscode在git上的追蹤
+1. 找到派獎記錄的頁面，確認一下這裡的資料顯示有沒有過濾該使用者是否有該伺服器的使用權限，請用zh-tw回覆

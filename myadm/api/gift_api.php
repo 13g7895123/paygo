@@ -719,34 +719,120 @@ function handle_send_gift($pdo) {
  * 取得派獎記錄
  */
 function handle_get_gift_logs($pdo) {
+    // 檢查使用者權限
+    $is_admin = !empty($_SESSION["adminid"]);
+    $user_id = !empty($_SESSION["shareid"]) ? $_SESSION["shareid"] : null;
+
+    // 如果既不是管理員也不是分享用戶，拒絕存取
+    if (!$is_admin && !$user_id) {
+        api_error('Access denied: Please login first', 403);
+    }
+
     $server_id = isset($_GET['server_id']) ? $_GET['server_id'] : null;
+    $game_account = isset($_GET['game_account']) ? trim($_GET['game_account']) : null;
+    $status = isset($_GET['status']) ? $_GET['status'] : null;
     $page = isset($_GET['page']) ? max(1, intval($_GET['page'])) : 1;
     $limit = isset($_GET['limit']) ? max(1, min(100, intval($_GET['limit']))) : 20;
     $offset = ($page - 1) * $limit;
-    
+
     // 構建查詢條件
     $where_conditions = [];
     $params = [];
-    
+    $allowed_servers = []; // 初始化變數
+
+    // 如果是分享用戶，限制只能查看有權限的伺服器的記錄
+    if (!$is_admin && $user_id) {
+        // 取得該用戶有權限的伺服器列表
+        $allowed_servers_query = $pdo->prepare("
+            SELECT s.auton
+            FROM servers s
+            INNER JOIN shareuser_server2 sus ON s.id = sus.serverid
+            WHERE sus.uid = :user_id AND s.stats = 1
+        ");
+        $allowed_servers_query->bindParam(':user_id', $user_id, PDO::PARAM_STR);
+        $allowed_servers_query->execute();
+        $allowed_servers = $allowed_servers_query->fetchAll(PDO::FETCH_COLUMN);
+
+        if (empty($allowed_servers)) {
+            // 如果沒有任何權限，返回空結果
+            api_success([
+                'logs' => [],
+                'pagination' => [
+                    'current_page' => 1,
+                    'total_pages' => 0,
+                    'total_items' => 0,
+                    'items_per_page' => $limit
+                ]
+            ], 'No servers available for this user');
+            return;
+        }
+
+        // 限制只能查詢有權限的伺服器
+        $placeholders = implode(',', array_fill(0, count($allowed_servers), '?'));
+        $where_conditions[] = "server_id IN ($placeholders)";
+        foreach ($allowed_servers as $allowed_server) {
+            $params[] = $allowed_server;
+        }
+    }
+
+    // 伺服器篩選
     if (!empty($server_id)) {
+        // 如果是分享用戶，需要額外檢查該伺服器是否在允許列表中
+        if (!$is_admin && $user_id && !empty($allowed_servers)) {
+            if (!in_array($server_id, $allowed_servers)) {
+                api_error('Access denied: You do not have permission to view this server', 403);
+            }
+        }
+
         $where_conditions[] = "server_id = :server_id";
         $params[':server_id'] = $server_id;
     }
-    
+
+    // 遊戲帳號篩選
+    if (!empty($game_account)) {
+        $where_conditions[] = "game_account LIKE :game_account";
+        $params[':game_account'] = '%' . $game_account . '%';
+    }
+
+    // 狀態篩選
+    if (!empty($status)) {
+        $where_conditions[] = "status = :status";
+        $params[':status'] = $status;
+    }
+
     $where_sql = empty($where_conditions) ? '' : 'WHERE ' . implode(' AND ', $where_conditions);
-    
+
+    // 準備 PDO 參數綁定
+    $count_params = [];
+    $query_params = [];
+    $param_index = 1;
+
+    foreach ($params as $key => $value) {
+        if (is_string($key)) {
+            // 命名參數
+            $count_params[$key] = $value;
+            $query_params[$key] = $value;
+        } else {
+            // 位置參數（用於 IN 子句）
+            $count_params[$param_index] = $value;
+            $query_params[$param_index] = $value;
+            $param_index++;
+        }
+    }
+
     // 取得總數
     $count_query = $pdo->prepare("SELECT COUNT(*) FROM send_gift_logs $where_sql");
-    foreach ($params as $key => $value) {
-        $count_query->bindValue($key, $value, PDO::PARAM_STR);
+    foreach ($count_params as $key => $value) {
+        $type = is_string($key) ? PDO::PARAM_STR : PDO::PARAM_STR;
+        $count_query->bindValue($key, $value, $type);
     }
     $count_query->execute();
     $total = $count_query->fetchColumn();
-    
+
     // 取得資料
-    $params[':limit'] = $limit;
-    $params[':offset'] = $offset;
-    
+    $query_params[':limit'] = $limit;
+    $query_params[':offset'] = $offset;
+
     $query = $pdo->prepare("
         SELECT id, server_id, server_name, game_account, items, total_items,
                status, error_message, operator_name, operator_ip, created_at, updated_at
@@ -755,20 +841,24 @@ function handle_get_gift_logs($pdo) {
         ORDER BY created_at DESC
         LIMIT :limit OFFSET :offset
     ");
-    
-    foreach ($params as $key => $value) {
-        $type = in_array($key, [':limit', ':offset']) ? PDO::PARAM_INT : PDO::PARAM_STR;
+
+    foreach ($query_params as $key => $value) {
+        if (in_array($key, [':limit', ':offset'])) {
+            $type = PDO::PARAM_INT;
+        } else {
+            $type = PDO::PARAM_STR;
+        }
         $query->bindValue($key, $value, $type);
     }
-    
+
     $query->execute();
     $logs = $query->fetchAll(PDO::FETCH_ASSOC);
-    
+
     // 解析 items JSON
     foreach ($logs as &$log) {
         $log['items'] = json_decode($log['items'], true);
     }
-    
+
     api_success([
         'logs' => $logs,
         'pagination' => [
