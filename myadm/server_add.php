@@ -1303,6 +1303,8 @@ echo '<div class="col-md-5 col-xs-12 margin-bottom-10">自訂底圖：
 
 	<input type="radio" name="pay_cp2" value="opay"<?if($datalist['pay_cp2'] == 'opay') echo " checked"?>> 歐付寶
 
+	<input type="radio" name="pay_cp2" value="no"<?if($datalist['pay_cp2'] == 'no') echo " checked"?>> 無
+
 </td></tr>
 
 <tr><td class="normaldiv2">
@@ -1345,6 +1347,10 @@ echo '<div class="col-md-5 col-xs-12 margin-bottom-10">自訂底圖：
 
 數支付 HashKey：<input name="szfupay_shop_id2" id="szfupay_shop_id2" type="text" value="<?=$datalist['szfupay_shop_id2']?>">&nbsp;&nbsp;
 
+</td></tr>
+
+<tr><td class="nodiv2">
+	<label style="color:red; font-weight:800; ">注意：尚未選擇超商金流</label>
 </td></tr>
 
 <tr><td>
@@ -1680,8 +1686,10 @@ function pay_check2() {
   $(".pchomediv2").hide();
 
   $(".smilepaydiv2").hide();
-  
+
   $(".szfupaydiv2").hide();
+
+  $(".nodiv2").hide();
 
   switch(v) {
 
@@ -1708,9 +1716,15 @@ function pay_check2() {
 
 	  break;
 
+	  case "no":
+
+		  $(".nodiv2").show();
+
+	  break;
+
 	  default:
 
-	  $(".normaldiv2").show();	  
+	  $(".normaldiv2").show();
 
 	  break;
 
