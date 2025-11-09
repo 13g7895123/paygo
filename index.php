@@ -55,7 +55,7 @@ if($_REQUEST["st"] == "send") {
 	$psn = $_REQUEST["psn"];
 	$is_bank = $_REQUEST["is_bank"];
 
-	// ANT專用欄位處理（第79點修正：預設NULL）
+	// ANT專用欄位處理（預設NULL）
 	$user_bank_code = null;
 	$user_bank_account = null;
 
